@@ -1,0 +1,1 @@
+print('Someone smart once said, "something important blah blah."')
